@@ -1,6 +1,5 @@
 
 
-![Image](https://github.com/user-attachments/assets/6acb60a8-341d-40b8-a893-6531f76c9298)
 <!--
 **pie-luck/pie-luck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
